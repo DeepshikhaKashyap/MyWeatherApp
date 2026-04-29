@@ -5,7 +5,7 @@
 From the repository root, run:
 
 ```bash
-cd /home/runner/work/MyWeatherApp/MyWeatherApp/MyWeatherApp
+cd MyWeatherApp
 mvn clean package
 ```
 
